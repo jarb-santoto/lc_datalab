@@ -1,7 +1,3 @@
-# lc_datalab
-
-
-
 # DataLab
 
 Proyecto integrador del curso de Lógica Computacional.
